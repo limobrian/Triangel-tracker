@@ -6,7 +6,7 @@ This application simpliy does accepts the input from the user then run it down a
 
 
 ## Setup/Installation Requirements
-* Git clone link
+* Git clone this https://github.com/limobrian/Triangele-tracker.git
 * cd portfolio landing
 * Open index.html from a browser
 
@@ -16,10 +16,10 @@ This application simpliy does accepts the input from the user then run it down a
  ## link to live site on GitHub Pages
 
 ## Technologies Used
-javascript
-html
-css
-Bootstrap
+*javascript
+*html
+*css
+*Bootstrap
 
 ## Support and contact details
 Contact me at,

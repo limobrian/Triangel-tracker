@@ -33,16 +33,16 @@ h2{
     width: 90px;
     margin-right: 100px;
     color: yellow;
-    margin-right: 20%>>>
+    margin-right: 20%
     
 }
 .footer {
-    position: fixed;
+    position: fixed;>>
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: gray;
+    background-color: gray;>>>
     color: white;
-    text-align: center;
+    text-align: center;>>>
  }
 

@@ -16,10 +16,10 @@ This application simpliy does accepts the input from the user then run it down a
  ## link to live site on GitHub Pages
 
 ## Technologies Used
-*javascript
-*html
-*css
-*Bootstrap
+* javascript
+* html
+* css
+* Bootstrap
 
 ## Support and contact details
 Contact me at,

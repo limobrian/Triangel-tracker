@@ -10,18 +10,19 @@ This application simpliy does accepts the input from the user then run it down a
 * cd Triangle-tracker
 * Open index.html from a browser
 
-##BDD
-| check your values | Equilateral |  
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+## BDD
+if the the number you have eneterred is less than or equal to 0 check your values
+ on Equilateral triangle all sides are equal
+ on An isosceles triangle 2 sides are equal
+ on A scalene triangle all side are not equal
 
 ## author
  limooh brian
 
  ## link to live site on GitHub Pages
+
 This is the https://limobrian.github.io/Triangle-tracker/
+
 ## Technologies Used
 * javascript
 * html

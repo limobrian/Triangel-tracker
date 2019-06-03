@@ -10,10 +10,10 @@ body{
 
 
 .jumbotron{
- text-align: center;>.
+ text-align: center;
 
 }
-.a{>>>>>>>>>>>>>>>>???????????//////////
+.a{
     display: flex;
 
 flex-wrap: wrap;
@@ -23,7 +23,7 @@ justify-content: space-around;
 }
 #img{
     margin-right: 20%;
-    background-blend-mode: lighten;
+    background-blend-mode: lighten;>>
 }
 h2{
     color: white;

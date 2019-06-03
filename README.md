@@ -10,11 +10,18 @@ This application simpliy does accepts the input from the user then run it down a
 * cd Triangle-tracker
 * Open index.html from a browser
 
+##BDD
+| check your values | Equilateral |  
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 ## author
  limooh brian
 
  ## link to live site on GitHub Pages
-
+This is the https://limobrian.github.io/Triangle-tracker/
 ## Technologies Used
 * javascript
 * html

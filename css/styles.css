@@ -15,11 +15,9 @@ body{
 }
 .a{
     display: flex;
-
-flex-wrap: wrap;
-flex-direction: row;
-justify-content: space-around;
-/*background-image: url('https://wallpapercave.com/wp/wp3855186.jpg')*/
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
 }
 #img{
     margin-right: 20%;

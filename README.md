@@ -7,7 +7,7 @@ This application simpliy does accepts the input from the user then run it down a
 
 ## Setup/Installation Requirements
 * Git clone this https://github.com/limobrian/Triangele-tracker.git
-* cd portfolio landing
+* cd Triangle-tracker
 * Open index.html from a browser
 
 ## author
@@ -24,6 +24,7 @@ This application simpliy does accepts the input from the user then run it down a
 ## Support and contact details
 Contact me at,
 Email:limobrian290@gamil.com
+
 
 ### License
 Permission is hereby granted, free of charge, to any person obtaining a copy
